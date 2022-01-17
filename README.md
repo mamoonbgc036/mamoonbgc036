@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamoon</h1>
-<img align="right" alt="GIF" src="https://github.com/mamoonbgc036/mamoonbgc036/blob/main/image_processing20191015-21835-e3o9jr.gif?raw=true" width="500" height="320" />
 <h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="GIF" src="https://github.com/mamoonbgc036/mamoonbgc036/blob/main/image_processing20191015-21835-e3o9jr.gif?raw=true" width="500" height="320" />
 
 ![Profile views](https://gpvc.arturio.dev/mamoonbgc036) 
 
@@ -15,8 +15,6 @@ Skills: PHP/ BOOTSTRAP/ WORDPRESS / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamoonbgc036](https://github.com/mamoonbgc036)
-
-- 📝 I regularly write articles on [https://www.youtube.com/habluprogrammer1/](https://www.youtube.com/habluprogrammer1/)
 
 - 💬 Ask me about **Javascript & PHP**
 
