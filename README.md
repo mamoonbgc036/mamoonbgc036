@@ -4,10 +4,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/mamoonbgc036) 
 
-Welcome to my GitHub profile. I am a Full Stack Developer(WordPress & Laravel). 
+Welcome to my GitHub profile. I am a Full Stack Developer(Laravel & WordPress). 
 Knock me: m.facebook.com/iammamoon
 
-Skills: PHP/ BOOTSTRAP/ WORDPRESS / REACT / JS / HTML / CSS
+Skills: PHP/ BOOTSTRAP/ LARAVEL / WORDPRESS / VUE / JS / HTML / CSS
  
 
 - 🔭 I’m currently working on [E-Commerce Project](https://github.com/mamoonbgc036/EcommerceMamoon)
